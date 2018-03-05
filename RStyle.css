@@ -1,0 +1,54 @@
+html {
+	font-family: Times New Roman;
+}
+body {
+	background-color: #b1b9c6;
+	background-size: cover;
+}
+h1 {
+	font-family: Georgia;
+	color: #000b77;
+	text-align: center;
+}
+h2 {
+	font-family: Georgia;
+	color: #96b500;
+}
+a {
+	color: #faffba;
+}
+.container {
+	position: relative;
+	text-align: center;
+}
+.text {
+	position: absolute;
+	top: 20px;
+	left:  350px;
+}
+.info {
+	text-align: left;
+	position: absolute;
+	top: 80px;
+	left: 350px;
+	right: 320px;
+}
+.kPoints {
+	position: absolute;
+	top: 400px;
+}
+.criteria {
+	position: absolute;
+	top: 560px;
+}
+table {
+	position: absolute;
+	top: 60px;
+	left: 20px;
+}
+td, tr {
+	background-color: #6aa098;
+	border-right: 5px solid;
+	padding: 25px;
+	border-left: 5px solid;
+}
